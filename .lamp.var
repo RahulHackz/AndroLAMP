@@ -8,7 +8,7 @@ lyw="\e[93m"
 
 DIR=`cd $(dirname $0); pwd`
 
-source $DIR/.spinner/spinner.sh
+source $DIR/.spinner.sh
 
 packages=(
 
