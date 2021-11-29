@@ -3,7 +3,7 @@
 DIR=`cd $(dirname $0); pwd`
 
 source $DIR/.lamp.var
-source $DIR/.spinner/spinner.sh
+source $DIR/.spinner.sh
 
 banner
 lamptable
